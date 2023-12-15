@@ -19,6 +19,7 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 ## App run video demonstration
 
 https://github.com/RobertNeat/CookBook/assets/47086490/b04205bd-feb1-40ad-ab1f-d239d9561bba
+<!--To embed the video make sure it is less than 25MB and it have the mp4 format (dont know what types are supported bu this is safe). Then just drag the file to readme in github and wait to upload the video-->
 
 
 ## Screenshots
