@@ -21,12 +21,6 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 https://github.com/RobertNeat/CookBook/assets/47086490/b04205bd-feb1-40ad-ab1f-d239d9561bba
 
 
-<video width="200" controls>
-  <source src="https://github.com/RobertNeat/CookBook/assets/47086490/b04205bd-feb1-40ad-ab1f-d239d9561bba" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
-
-
 ## Screenshots
 
 1. Main page of the app with the meal categories
